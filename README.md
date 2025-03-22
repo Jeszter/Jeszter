@@ -3,15 +3,34 @@
 I'm a student at **TUKE (Technical University of Košice)**, passionate about coding and creativity. I love creating something new and am always looking for ways to improve my skills and broaden my horizons.
 
 ---
+<style>
+    .highlight-box {
+        border-left: 5px solid #0073e6;
+        padding-left: 15px;
+        margin-bottom: 15px;
+        font-weight: bold;
+        transition: all 0.3s ease;
+    }
 
-> **🔧 What I Do:**
-> I enjoy writing code, solving problems, and building innovative solutions.
->
-> **🎨 Creativity:**
-> I’m a creative person who loves to create and explore new ideas.
->
-> **🎲 Board Games:**
-> I love gathering with friends for board games, which helps me develop strategic thinking and teamwork skills.
+    .highlight-box:hover {
+        background-color: #f0f0f0;
+    }
+</style>
+
+<div class="highlight-box">
+    <h3>🔧 What I Do</h3>
+    <p>I enjoy writing code, solving problems, and building innovative solutions.</p>
+</div>
+
+<div class="highlight-box" style="border-left-color: #28a745;">
+    <h3>🎨 Creativity</h3>
+    <p>I’m a creative person who loves to create and explore new ideas.</p>
+</div>
+
+<div class="highlight-box" style="border-left-color: #ffc107;">
+    <h3>🎲 Board Games</h3>
+    <p>I love gathering with friends for board games, which helps me develop strategic thinking and teamwork skills.</p>
+</div>
 
 
 
