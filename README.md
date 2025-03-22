@@ -4,20 +4,15 @@ I'm a student at **TUKE (Technical University of Košice)**, passionate about co
 
 ---
 
-<div style="border-left: 5px solid #0073e6; padding-left: 10px; margin-bottom: 20px;">
-    <h3>🔧 What I Do:</h3>
-    <p>I enjoy writing code, solving problems, and building innovative solutions.</p>
-</div>
+> **🔧 What I Do:**
+> I enjoy writing code, solving problems, and building innovative solutions.
+>
+> **🎨 Creativity:**
+> I’m a creative person who loves to create and explore new ideas.
+>
+> **🎲 Board Games:**
+> I love gathering with friends for board games, which helps me develop strategic thinking and teamwork skills.
 
-<div style="border-left: 5px solid #28a745; padding-left: 10px; margin-bottom: 20px;">
-    <h3>🎨 Creativity:</h3>
-    <p>I’m a creative person who loves to create and explore new ideas.</p>
-</div>
-
-<div style="border-left: 5px solid #ffc107; padding-left: 10px; margin-bottom: 20px;">
-    <h3>🎲 Board Games:</h3>
-    <p>I love gathering with friends for board games, which helps me develop strategic thinking and teamwork skills.</p>
-</div>
 
 
 ---
