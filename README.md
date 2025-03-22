@@ -1,24 +1,27 @@
 ### Hi there, I'm Kyrylo 🎓
-I'm a student at TUKE (Technical University of Košice)**, passionate about coding and creativity. I love creating something new and am always looking for ways to improve my skills and broaden my horizons.
+I'm a student at **TUKE (Technical University of Košice)**, passionate about coding and creativity. I love creating something new and am always looking for ways to improve my skills and broaden my horizons.
+---
 🔧 What I do:
+<div class="card">
+    <h4>💻 Software Development</h4>
+    <p>I enjoy writing code, solving problems, and building innovative solutions.</p>
+</div>
 
-    💻 Software Development — I enjoy writing code, solving problems, and building innovative solutions.
+<div class="card">
+    <h4>🎨 Creativity</h4>
+    <p>I’m a creative person who loves to create and explore new ideas.</p>
+</div>
 
-    🎨 Creativity — I’m a creative person who loves to create and explore new ideas.
-
-    🎲 Board Games — In my free time, I love gathering with friends for board games, which helps me develop strategic thinking and teamwork skills.
-
-
-> [!TIP]  
-> Keep learning new things every day, whether it's tech, creativity, or life skills. It always helps you grow!
+<div class="card">
+    <h4>🎲 Board Games</h4>
+    <p>I love gathering with friends for board games, which helps me develop strategic thinking and teamwork skills.</p>
+</div>
+---
 
 ## 🌱 Always Learning:
 
 I’m constantly open to learning new technologies, methods, and approaches. This helps me grow and move forward in my journey.
-
-> [!IMPORTANT]
-> Never stop learning and challenging yourself, as it leads to endless opportunities.
-
+---
 <br />
 
 ### 🧰 Languages and Tools:
@@ -33,7 +36,7 @@ I’m constantly open to learning new technologies, methods, and approaches. Thi
 
 <br />
 <br />
-
+---
 ### Connect with me:
 [<img align="left" alt="Kyrylo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kyrylo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
