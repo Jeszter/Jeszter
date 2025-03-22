@@ -1,27 +1,33 @@
 ### Hi there, I'm Kyrylo 🎓
+
 I'm a student at **TUKE (Technical University of Košice)**, passionate about coding and creativity. I love creating something new and am always looking for ways to improve my skills and broaden my horizons.
+
 ---
-🔧 What I do:
-<div class="card">
-    <h4>💻 Software Development</h4>
+
+<div style="border-left: 5px solid #0073e6; padding-left: 10px; margin-bottom: 20px;">
+    <h3>🔧 What I Do:</h3>
     <p>I enjoy writing code, solving problems, and building innovative solutions.</p>
 </div>
 
-<div class="card">
-    <h4>🎨 Creativity</h4>
+<div style="border-left: 5px solid #28a745; padding-left: 10px; margin-bottom: 20px;">
+    <h3>🎨 Creativity:</h3>
     <p>I’m a creative person who loves to create and explore new ideas.</p>
 </div>
 
-<div class="card">
-    <h4>🎲 Board Games</h4>
+<div style="border-left: 5px solid #ffc107; padding-left: 10px; margin-bottom: 20px;">
+    <h3>🎲 Board Games:</h3>
     <p>I love gathering with friends for board games, which helps me develop strategic thinking and teamwork skills.</p>
 </div>
+
+
 ---
 
 ## 🌱 Always Learning:
 
 I’m constantly open to learning new technologies, methods, and approaches. This helps me grow and move forward in my journey.
+
 ---
+
 <br />
 
 ### 🧰 Languages and Tools:
@@ -36,7 +42,9 @@ I’m constantly open to learning new technologies, methods, and approaches. Thi
 
 <br />
 <br />
+
 ---
+
 ### Connect with me:
 [<img align="left" alt="Kyrylo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kyrylo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
