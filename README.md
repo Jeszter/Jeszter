@@ -1,57 +1,103 @@
 # Kyrylo Tarasov
 
-### Junior Software Developer
-**Java · Spring Boot · Python · FastAPI · React**
+### Software Developer · Backend & Full-Stack
 
-Computer Science graduate from **Technical University of Košice**.
+I’m a software developer focused on building **backend services, web applications and integrations**.
 
-I build backend and full-stack applications with a focus on REST APIs, databases and software integrations. Currently interested in Java/Spring Boot and Python backend development.
+I mainly work with **Python**, but I also enjoy building with **Java, Kotlin and JavaScript/TypeScript**. I like working on projects where backend logic, APIs, databases and real-time systems come together.
+
+I’m particularly interested in **backend development, distributed systems, APIs and AI-powered applications**.
+
+<p>
+  <a href="https://www.linkedin.com/in/kyrylo-tarasov/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kyrylotarasov1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://jeszter.github.io/Website/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js,react,vue,kotlin,postgresql,redis,docker,git" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,js,ts,fastapi,django,spring,ktor,react,vue,postgres,redis,docker,git,linux&perline=8" />
 
 ---
 
-## Selected Projects
+## Featured Projects
 
-**[Connect4](https://github.com/Jeszter/Connect4)**  
-Java · Spring Boot · PostgreSQL · JWT
+<table>
+<tr>
+<td width="50%">
 
-Web application with authentication, game logic, player ratings and persistent data.
+### EquiPay
 
-**[Dungeon](https://github.com/Jeszter/Dungeon)**  
-Java
+**Shared finance platform**
 
-Java-based dungeon project focused on OOP, game logic and application structure.
+`Kotlin` · `Ktor` · `Android` · `PostgreSQL` · `Redis` · `AI`
 
-**[EquiPay](https://github.com/Jeszter/hack-kosice)**  
-Kotlin · Ktor · Android · PostgreSQL · Redis
+PSD2 banking integration, AI assistant, voice interaction, receipt scanning and secure authentication.
 
-Shared-finance application developed for Hack Kosice with PSD2 integration, authentication and AI features.
+<a href="https://github.com/Jeszter/hack-kosice">Repository →</a>
 
-**[Herbify](https://github.com/Jeszter/Herbify)**  
-Kotlin · Android · CameraX · MapLibre
+</td>
 
-Android application combining plant identification, camera functionality and maps.
+<td width="50%">
+
+### dEST Platform
+
+**Web3 real-estate marketplace**
+
+`FastAPI` · `React` · `PostgreSQL` · `WebSockets` · `Solidity`
+
+Real-time auctions, anti-sniping protection, wallet authentication and smart-contract integration.
+
+<a href="https://github.com/Jeszter/eth-bratislava">Repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Connect4 Web
+
+**Real-time multiplayer web application**
+
+`Java` · `Spring Boot` · `PostgreSQL` · `JWT`
+
+Authentication, game logic, player ratings and match history.
+
+<a href="https://github.com/Jeszter/Connect4">Repository →</a>
+
+</td>
+
+<td>
+
+### Dungeon
+
+**Java game**
+
+`Java` · `OOP`
+
+A Java project focused on gameplay systems and object-oriented programming.
+
+<a href="https://github.com/Jeszter/Dungeon">Repository →</a>
+
+</td>
+</tr>
+</table>
 
 ---
-
-## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jeszter&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeszter&layout=compact&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kyrylo-tarasov-59b3a0324/">LinkedIn</a>
+  <a href="https://github.com/Jeszter">GitHub</a>
   ·
-  <a href="mailto:kyrylotarasov1@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/kyrylo-tarasov/">LinkedIn</a>
+  ·
+  <a href="https://jeszter.github.io/Website/">Portfolio</a>
 </p>
