@@ -1,52 +1,164 @@
-### Hi there, I'm Kyrylo 🎓
+# 👋 Hi, I'm Kyrylo Tarasov
 
-I'm a student at **TUKE (Technical University of Košice)**, passionate about coding and creativity. I love creating something new and am always looking for ways to improve my skills and broaden my horizons.
+### Junior Software Developer | Java · Spring Boot · Python · FastAPI
 
----
+🎓 Computer Science graduate from **Technical University of Košice (TUKE)**  
+📍 Košice, Slovakia  
+🚀 Interested in backend development, APIs, full-stack applications and software engineering.
 
- **🔧 What I Do:**
- 
- **💻 Software Development:**
- I enjoy writing code, solving problems, and building innovative solutions.
-
- **🎨 Creativity:**
- I’m a creative person who loves to create and explore new ideas.
-
- **🎲 Board Games:**
- I love gathering with friends for board games, which helps me develop strategic thinking and teamwork skills.
-
+I enjoy building things from scratch, solving problems and learning new technologies through real projects.
 
 ---
 
-## 🌱 Always Learning:
+## 🛠️ Tech Stack
 
-I’m constantly open to learning new technologies, methods, and approaches. This helps me grow and move forward in my journey.
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,django,nodejs" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,js,html,css,tailwind" />
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,redis,docker,git,linux,github" />
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,android" />
+</p>
 
 ---
 
-<br />
+## 🚀 Featured Projects
 
-### 🧰 Languages and Tools:
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<br />
-<br />
+### 🎮 [Dungeon](https://github.com/Jeszter/Dungeon)
+**Java**
+
+A Java-based dungeon project focused on game logic, object-oriented programming and application structure.
 
 ---
 
-### Connect with me:
-[<img align="left" alt="Kyrylo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Kyrylo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### 🎯 [Connect4](https://github.com/Jeszter/Connect4)
+**Java · Spring Boot · PostgreSQL · JWT**
 
-<br />
+Web-based Connect Four application with:
 
+- JWT authentication
+- game logic
+- player ratings
+- PostgreSQL database
+- Spring Boot backend
 
-[linkedin]: https://www.linkedin.com/in/kyrylo-tarasov-59b3a0324/
-[instagram]: https://www.instagram.com/jeszter.tp/
+---
+
+### 💰 [EquiPay](https://github.com/Jeszter/hack-kosice)
+**Kotlin · Ktor · Android · Jetpack Compose · PostgreSQL · Redis**
+
+Full-stack shared finance application created for **Hack Kosice / Tatra banka**.
+
+Includes:
+
+- PSD2 banking integration
+- JWT authentication
+- Redis rate limiting
+- AI assistant
+- receipt scanning
+- voice interaction
+- shared expenses
+
+---
+
+### 🌿 [Herbify](https://github.com/Jeszter/Herbify)
+**Kotlin · Android · CameraX · MapLibre · Plant identification**
+
+Android application combining camera-based plant identification with maps and location-based functionality.
+
+---
+
+## 💻 Other Projects
+
+### dEST Platform
+**React · FastAPI · PostgreSQL · WebSockets · Solidity**
+
+Web3 real-estate marketplace with real-time auctions and blockchain integration.
+
+### DigitalKraj
+**React · FastAPI**
+
+Digital portal prototype with regional data, interactive maps and an AI chatbot.
+
+### EchoLabs
+**React · Vite · Tailwind**
+
+Responsive frontend project focused on modern UI and adaptive layouts.
+
+---
+
+## 📚 Currently Learning
+
+- ☕ Java & Spring Boot
+- 🐍 Python backend development
+- 🧠 Artificial Intelligence
+- 🗄️ Database design & SQL
+- 🐳 Docker & backend architecture
+- ⚡ Building production-ready APIs
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeszter&show_icons=true&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeszter&layout=compact&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jeszter&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jeszter/Jeszter/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📜 Certifications
+
+- IBM — Databases and SQL for Data Science with Python
+- IBM — Developing Front-End Apps with React
+- Amazon — Programming with Java
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/kyrylo-tarasov-59b3a0324/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kyrylotarasov1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Jeszter">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Always building. Always learning.</i>
+</p>
